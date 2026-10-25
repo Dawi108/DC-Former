@@ -1,0 +1,4 @@
+Metric,Value
+Best Validation mIoU,65.88%
+Global Pixel Accuracy (aAcc),93.84%
+Final Epoch Mean Class Accuracy (mAcc),72.90%
