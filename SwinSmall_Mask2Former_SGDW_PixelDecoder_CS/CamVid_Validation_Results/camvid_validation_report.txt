@@ -1,0 +1,36 @@
+=================================================================
+              CAMVID SEMANTIC BENCHMARK REPORT                    
+=================================================================
+Evaluated Target Split:  CamVid Test Directory
+Total Evaluated Images:  232 Frames
+Execution Hardware:      NVIDIA RTX A4000
+-----------------------------------------------------------------
+Overall Mean IoU (mIoU): 39.16%
+Global Pixel Accuracy:   92.40%
+Mean Class Accuracy:     43.19%
+-----------------------------------------------------------------
+Model Execution Latency: 114.78 ms per frame
+Throughput Processing:   8.71 FPS
+-----------------------------------------------------------------
+CLASS NAME             | IoU SCORE (%)  
+-----------------------------------------------------------------
+Road                   | 97.29          
+Sidewalk               | 0.00           
+Building               | 90.09          
+Wall                   | 60.51          
+Fence                  | 57.73          
+Pole                   | 45.22          
+Traffic Light          | 0.00           
+Traffic Sign           | 35.13          
+Vegetation             | 75.90          
+Terrain                | 0.00           
+Sky                    | 85.71          
+Person                 | 74.52          
+Rider                  | 0.00           
+Car                    | 93.72          
+Truck                  | 0.00           
+Bus                    | 0.00           
+Train                  | 0.00           
+Motorcycle             | 0.00           
+Bicycle                | 28.24          
+=================================================================

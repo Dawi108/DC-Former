@@ -1,0 +1,5 @@
+Metric,Value
+Best Validation mIoU,83.43%
+Global Pixel Accuracy (aAcc),96.91%
+Final Epoch Mean Class Accuracy (mAcc),89.86%
+Total Cumulative Training Time,"2 days, 18:00:03"

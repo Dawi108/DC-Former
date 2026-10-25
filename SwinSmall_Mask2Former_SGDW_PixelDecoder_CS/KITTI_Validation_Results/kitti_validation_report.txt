@@ -1,0 +1,36 @@
+=================================================================
+              KITTI SEMANTIC BENCHMARK REPORT                    
+=================================================================
+Evaluated Target Split:  KITTI Training Directory Location
+Total Evaluated Images:  200 Frames
+Execution Hardware:      NVIDIA RTX A4000
+-----------------------------------------------------------------
+Overall Mean IoU (mIoU): 61.41%
+Global Pixel Accuracy:   88.62%
+Mean Class Accuracy:     75.73%
+-----------------------------------------------------------------
+Model Execution Latency: 90.39 ms per frame
+Throughput Processing:   11.06 FPS
+-----------------------------------------------------------------
+CLASS NAME             | IoU SCORE (%)  
+-----------------------------------------------------------------
+Road                   | 87.73          
+Sidewalk               | 41.54          
+Building               | 81.30          
+Wall                   | 44.43          
+Fence                  | 51.51          
+Pole                   | 36.13          
+Traffic Light          | 64.54          
+Traffic Sign           | 66.91          
+Vegetation             | 87.64          
+Terrain                | 51.00          
+Sky                    | 93.34          
+Person                 | 45.26          
+Rider                  | 44.73          
+Car                    | 88.98          
+Truck                  | 42.65          
+Bus                    | 59.65          
+Train                  | 83.20          
+Motorcycle             | 50.44          
+Bicycle                | 45.89          
+=================================================================

@@ -1,0 +1,27 @@
+=================================================================
+       OPTIMIZED CAMVID EVALUATION (CUSTOM HIGH-CONTRAST)        
+=================================================================
+Frames Evaluated:            232
+Optimization:                Aspect-Ratio Normalization applied
+Class Consolidation:         Cityscapes 19 -> CamVid 11
+-----------------------------------------------------------------
+Overall mIoU:                76.19%
+Global Pixel Accuracy:       93.69%
+Mean Class Accuracy:         85.42%
+-----------------------------------------------------------------
+Inference Speed:             10.53 FPS (94.99 ms/frame)
+-----------------------------------------------------------------
+CAMVID 11 CLASS           | IoU (%)   
+-----------------------------------------------------------------
+Sky                       | 85.98     
+Building                  | 91.57     
+Pole                      | 48.48     
+Road                      | 96.62     
+Pavement                  | 86.86     
+Tree                      | 76.31     
+SignSymbol                | 46.73     
+Fence                     | 53.69     
+Car                       | 92.84     
+Pedestrian                | 76.94     
+Bicyclist                 | 82.08     
+=================================================================
